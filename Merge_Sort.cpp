@@ -25,8 +25,8 @@ void print(const vector<int> &data)
             cout << " ";
     }
     cout << "\n";
-    cout << "Student ID: C243014 \n"
-         << "Student Name: Nafizur Rahman Seam\n";
+    cout << "Student ID: C243042 \n"
+         << "Student Name: Ahmed Ibrahim Sajid\n";
 }
 
 void merge(vector<int> &arr, int start, int mid, int end)
